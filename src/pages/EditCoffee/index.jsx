@@ -1,4 +1,10 @@
+import { Header } from "../../components/shared";
+
 const EditCoffee = () => {
-  return <div>EditCoffee</div>;
+  return (
+    <div>
+      <Header />
+    </div>
+  );
 };
 export default EditCoffee;
